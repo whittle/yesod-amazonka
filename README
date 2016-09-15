@@ -1,0 +1,4 @@
+yesod-amazonka
+==============
+
+Helpful functions to adapt Amazonka to Yesod.
