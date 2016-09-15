@@ -1,6 +1,6 @@
 name:                   yesod-amazonka
 version:                0.1.0.0
-synopsis:               Initial project template from stack
+synopsis:               Helpful functions to adapt Amazonka to Yesod
 homepage:               https://github.com/whittle/yesod-amazonka#readme
 license:                BSD3
 license-file:           LICENSE
