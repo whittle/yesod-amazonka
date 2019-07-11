@@ -27,7 +27,6 @@ library
                      , yesod-core >= 1.4
   hs-source-dirs:      src
   exposed-modules:     Yesod.AWS
-                     , Yesod.AWS.Auth
 
 source-repository head
   type:     git
